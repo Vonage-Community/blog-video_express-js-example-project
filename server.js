@@ -5,6 +5,7 @@
 // but feel free to use whatever libraries or frameworks you'd like through `package.json`.
 const express = require("express");
 const OpenTok = require("opentok");
+require('dotenv').config();
 const app = express();
 
 app.engine('html', require('ejs').renderFile);

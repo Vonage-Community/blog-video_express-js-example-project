@@ -1,0 +1,25 @@
+{
+    "name": "vonage-video-express-example",
+    "version": "0.0.1",
+    "description": "A simple Node app built on Express, instantly up and running with a Vonage Video Express demo.",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "opentok": "^2.9.2",
+      "ejs": "^3.1.5"
+    },
+    "engines": {
+      "node": "12.x"
+    },
+    "repository": {
+      "url": "https://github.com/Vonage-Community/blog-video_express-js-example_project"
+    },
+    "license": "MIT",
+    "keywords": [
+      "node",
+      "express"
+    ]
+  }

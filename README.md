@@ -17,10 +17,6 @@ On the back-end,
 
 - `server.js` creates the session that users will use to connect to the room. For applications with multiple rooms, the session IDs will need to be stored in a database.
 
-## To use the demo
-
-Click `Show` in the header above and then `In a New Window` to see your app live. Copy that link and open in another browser window (be careful of audio feedback).
-
 ## Deployed Demo
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/fork/github/Vonage-Community/blog-video_express-js-example_project)

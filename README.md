@@ -19,5 +19,5 @@ On the back-end,
 
 ## Deployed Demo
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/fork/github/Vonage-Community/blog-video_express-js-example_project)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/fork/github/Vonage-Community/blog-video_express-js-example_project/tree/StackBlitz)
 

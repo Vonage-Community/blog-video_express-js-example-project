@@ -17,6 +17,10 @@ On the back-end,
 
 - `server.js` creates the session that users will use to connect to the room. For applications with multiple rooms, the session IDs will need to be stored in a database.
 
+## Using Firebase?
+
+We created a [Firebase Extension](https://extensions.dev/extensions/vonage/firestore-vonage-video-express) to be able to add Video Express into your Firebase project with just a few clicks.
+
 ## Deployed Demo
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/fork/github/Vonage-Community/blog-video_express-js-example_project/tree/StackBlitz)
